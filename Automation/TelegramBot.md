@@ -1,4 +1,44 @@
-# Telegram bot tasks
+# Telegram bot Roadmao
+
+## Roadmap
+
+- [ ] Telegram bot for Juniors
+  - [x] Hello World
+    - [x] node.js completed
+    - [ ] python still not completed
+  - [x] Weather Bot
+    - [x] send Weather Information when asking
+    - [ ] send weather message in the morning
+    - [ ] subscribe the bot
+  - [x] Telegram mail Bot
+    - [x] send mail to developer
+  - [ ] Telegram BTC and ETH price scan Bot
+  - [ ] Telegram NewBot
+  - [ ] CalendarBot
+  - [ ] Telegram Bot that google
+  - [ ] Telegram Bot that connect your google sheet
+  - [ ] Telegram Bot that connect your tableau
+  - [ ] Telegram Bot that connect your Airtable
+  - [ ] Telegram Social Media Bot
+- [ ] Telegram bot for Seniors
+  - [ ] telegram bot that connect trello
+  - [ ] telegram bot that connect salesforce
+  - [ ] telegram bot that connect real estate api
+  - [ ] telegram bot that alert flight
+  - [ ] telegram sports bot
+  - [ ] Job bot
+  - [ ] Travel Bot
+  - [ ] Commodity Price Bot
+  - [ ] Telegram Music Bot
+  - [ ] Telegram Book Bot
+  - [ ] Private messages
+  - [ ] Telegram Trading Bot
+  - [ ] Telegram Wallet
+- [ ] Telegram bot & mini Apps for Advanced
+  - [ ] Car Dealer
+  - [ ] Telegram mini Star Trek
+  - [ ] Telegram 2048
+  - [ ] Telegram quiz platform bot
 
 ## The bot you should develop
 
